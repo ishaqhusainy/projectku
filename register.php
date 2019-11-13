@@ -56,15 +56,10 @@
                     <input name="password_reg" type="password" class="form-control form-control-user" id="exampleRepeatPassword" placeholder="Repeat Password">
                   </div>
                 </div>
-                <div class="form-group">
-                    <input type="file" class="form-control" name="file">
-                  </div>
+               
                   <input class="btn btn-primary btn-user btn-block" type="submit" value="Register Account">
                 <hr>
               <hr>
-              <div class="text-center">
-                <a class="small" href="forgot-password.html">Forgot Password?</a>
-              </div>
               <div class="text-center">
                 <a class="small" href="index.php">Already have an account? Login!</a>
               </div>
