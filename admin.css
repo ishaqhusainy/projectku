@@ -1,0 +1,39 @@
+body {
+  background: url(image/shadow.png) position:absolute; top:0px; left:0px; margin:8px 0 0 6px; /* IE6 fix: */ _background:none; _margin:0; }
+  font-family: sans-serif;
+}
+ 
+h2 {
+  color: #fff;
+}
+.login-admin {
+  padding: 1em;
+  margin: 2em auto;
+  width: 20em;
+  background: navy;
+  border-radius: 2px;
+}
+
+label {
+  font-size: 15pt;
+  color: #555;
+}
+ 
+input[type="text"],
+input[type="password"],
+textarea {
+  padding: 10px;
+  width: 95%;
+  background: #9999;
+  border: 0;
+  font-size: 10pt;
+  margin: 6px 0px;
+}
+ 
+.tombol {
+  background: #3498db;
+  color: #fff;
+  border: 0;
+  padding: 5px 8px;
+  margin: 20px 0px;
+}
